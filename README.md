@@ -14,6 +14,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
