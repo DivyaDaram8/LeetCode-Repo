@@ -20,6 +20,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0075-sort-colors](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +72,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
