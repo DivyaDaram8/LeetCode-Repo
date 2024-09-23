@@ -54,6 +54,7 @@
 | [0169-majority-element](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0560-subarray-sum-equals-k) |
+| [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0020-valid-parentheses) |
+| [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Stack
