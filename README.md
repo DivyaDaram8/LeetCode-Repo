@@ -27,6 +27,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0054-spiral-matrix) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0020-valid-parentheses) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
