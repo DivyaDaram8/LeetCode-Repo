@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0020-valid-parentheses) |
+| [0742-to-lower-case](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
