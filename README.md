@@ -39,6 +39,7 @@
 | [0125-valid-palindrome](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0283-move-zeroes) |
+| [2128-reverse-prefix-of-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -114,11 +115,13 @@
 | [0742-to-lower-case](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1205-defanging-an-ip-address) |
+| [2128-reverse-prefix-of-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0020-valid-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
 ## Prefix Sum
 |  |
 | ------- |
