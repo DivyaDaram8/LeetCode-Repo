@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0125-valid-palindrome) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0742-to-lower-case) |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0560-subarray-sum-equals-k) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
