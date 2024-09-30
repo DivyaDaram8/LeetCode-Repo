@@ -4,7 +4,9 @@ class Solution {
         String[] strArr = str.split("\\s+");
         Map<String, Integer> mp = new HashMap<>();
         for(String word : strArr){
+            if(word.length() > 0){
            mp.put(word,mp.getOrDefault(word,0)+1); 
+            }
         }
         for(String ban : banned){
             if(mp.containsKey(ban))
