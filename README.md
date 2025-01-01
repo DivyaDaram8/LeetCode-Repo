@@ -30,6 +30,7 @@
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
