@@ -9,6 +9,7 @@ class Solution {
                     if(words[i].equals(rev)){
                         count++;
                         words[j] = "0";
+                        break;
                     }
                 }
             }
