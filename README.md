@@ -36,6 +36,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2350-find-closest-number-to-zero) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0054-spiral-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0054-spiral-matrix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
