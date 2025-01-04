@@ -63,6 +63,7 @@
 | [0073-set-matrix-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
@@ -129,6 +130,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0205-isomorphic-strings) |
 | [0742-to-lower-case](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
