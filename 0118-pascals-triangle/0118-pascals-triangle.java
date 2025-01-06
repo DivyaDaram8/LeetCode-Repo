@@ -1,22 +1,20 @@
 class Solution {
-     public static int nCr(int row, int col){
-        long res = 1;
-        for(int i = 0; i < col ; i++){
-            res = res * (row - i);
-            res = res / (i +1);
-        }
-        return (int) res;
-    }
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> Op = new ArrayList<>();
-        for(int i = 1; i <= numRows; i++){
-            List<Integer> templist = new ArrayList<>();
-            for(int j = 1; j <= i; j++){
-                templist.add(nCr(i - 1, j - 1));
+        List<List<Integer>> ans = new ArrayList<>();
+
+        List<Integer> firstRow = new ArrayList<>();
+        firstRow.add(1);
+        ans.add(firstRow);
+        
+        for (int i = 1; i < numRows; i++) {
+            List<Integer> temp = new ArrayList<>();
+            temp.add(1);
+            for (int j = 1; j < i; j++) {
+                temp.add(ans.get(i - 1).get(j - 1) + ans.get(i - 1).get(j));
             }
-            Op.add(templist);
+            temp.add(1);
+            ans.add(temp);
         }
-        return Op;
+        return ans;
     }
-   
 }
