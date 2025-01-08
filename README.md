@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0777-toeplitz-matrix) |
@@ -105,6 +106,7 @@
 | [0169-majority-element](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
@@ -179,10 +181,15 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0561-array-partition) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Sliding Window
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
