@@ -40,6 +40,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2350-find-closest-number-to-zero) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -109,6 +110,7 @@
 | [0561-array-partition](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0561-array-partition) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Sliding Window
 |  |
 | ------- |
