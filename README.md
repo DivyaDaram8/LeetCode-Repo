@@ -97,6 +97,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1046-max-consecutive-ones-iii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [1205-defanging-an-ip-address](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1205-defanging-an-ip-address) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2406-decode-the-message) |
@@ -180,6 +182,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1046-max-consecutive-ones-iii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## String Matching
 |  |
 | ------- |
@@ -197,6 +200,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Counting Sort
 |  |
 | ------- |
