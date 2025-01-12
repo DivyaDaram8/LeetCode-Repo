@@ -48,6 +48,7 @@
 | [2350-find-closest-number-to-zero](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2350-find-closest-number-to-zero) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0054-spiral-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0777-toeplitz-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0777-toeplitz-matrix) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## String
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0561-array-partition](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0561-array-partition) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Sliding Window
 |  |
 | ------- |
