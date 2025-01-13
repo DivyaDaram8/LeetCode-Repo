@@ -179,6 +179,7 @@
 | [2406-decode-the-message](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2406-decode-the-message) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3379-score-of-a-string) |
+| [3636-check-balanced-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
