@@ -29,6 +29,7 @@
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0777-toeplitz-matrix) |
+| [0822-unique-morse-code-words](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0940-fruit-into-baskets) |
@@ -87,6 +88,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0940-fruit-into-baskets) |
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
@@ -169,6 +171,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0742-to-lower-case](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
 | [1205-defanging-an-ip-address](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1205-defanging-an-ip-address) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
