@@ -20,20 +20,33 @@
 //     }
 // }
 
-class Solution {
+// class Solution {
+//     public String reverseWords(String s) {
+//         StringBuilder revSent = new StringBuilder();
+//         for (String word : s.split("\\s+")) {
+//             StringBuilder revWord = new StringBuilder(word);
+//             int wordlen = revWord.length();
+//             for (int i = 0; i < wordlen / 2; i++) {
+//                 char ch = revWord.charAt(i);
+//                 revWord.setCharAt(i, revWord.charAt(wordlen - 1 - i));
+//                 revWord.setCharAt(wordlen - 1 - i, ch);
+//             }
+//             revSent.append(revWord).append(" ");
+//         }
+//         return revSent.toString().trim();
+//     }
+// }
+
+
+public class Solution {
     public String reverseWords(String s) {
-        StringBuilder revSent = new StringBuilder();
-        for (String word : s.split("\\s+")) {
-            StringBuilder revWord = new StringBuilder(word);
-            int wordlen = revWord.length();
-            for (int i = 0; i < wordlen / 2; i++) {
-                char ch = revWord.charAt(i);
-                revWord.setCharAt(i, revWord.charAt(wordlen - 1 - i));
-                revWord.setCharAt(wordlen - 1 - i, ch);
-            }
-            revSent.append(revWord).append(" ");
+        String[] words = s.split("\\s+"); 
+        StringBuilder reversed = new StringBuilder();
+        for (String word : words) {
+            StringBuilder reversedWord = new StringBuilder(word);
+            reversedWord.reverse(); 
+            reversed.append(reversedWord).append(" "); 
         }
-        return revSent.toString().trim();
+        return reversed.toString().trim();
     }
 }
-
