@@ -1,21 +1,39 @@
+// class Solution {
+//     public String reverseWords(String s) {
+//         String[] words = s.split(" ");
+//         StringBuilder revSent = new StringBuilder();
+        
+//         for (String word : words) {
+//             char[] chars = word.toCharArray();
+//             int left = 0, right = chars.length - 1;
+//             while (left < right) {
+//                 char temp = chars[left];
+//                 chars[left] = chars[right];
+//                 chars[right] = temp;
+//                 left++;
+//                 right--;
+//             }
+//             revSent.append(new String(chars)).append(" ");
+//         }
+        
+//         return revSent.toString().trim();
+//     }
+// }
+
 class Solution {
     public String reverseWords(String s) {
-        String[] words = s.split(" ");
         StringBuilder revSent = new StringBuilder();
-        
-        for (String word : words) {
-            char[] chars = word.toCharArray();
-            int left = 0, right = chars.length - 1;
-            while (left < right) {
-                char temp = chars[left];
-                chars[left] = chars[right];
-                chars[right] = temp;
-                left++;
-                right--;
+        for (String word : s.split("\\s+")) {
+            StringBuilder revWord = new StringBuilder(word);
+            int wordlen = revWord.length();
+            for (int i = 0; i < wordlen / 2; i++) {
+                char ch = revWord.charAt(i);
+                revWord.setCharAt(i, revWord.charAt(wordlen - 1 - i));
+                revWord.setCharAt(wordlen - 1 - i, ch);
             }
-            revSent.append(new String(chars)).append(" ");
+            revSent.append(revWord).append(" ");
         }
-        
         return revSent.toString().trim();
     }
 }
+
