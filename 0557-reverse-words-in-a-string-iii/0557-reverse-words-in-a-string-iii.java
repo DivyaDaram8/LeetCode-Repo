@@ -38,15 +38,28 @@
 // }
 
 
+// public class Solution {
+//     public String reverseWords(String s) {
+//         String[] words = s.split("\\s+"); 
+//         StringBuilder reversed = new StringBuilder();
+//         for (String word : words) {
+//             StringBuilder reversedWord = new StringBuilder(word);
+//             reversedWord.reverse(); 
+//             reversed.append(reversedWord).append(" "); 
+//         }
+//         return reversed.toString().trim();
+//     }
+// }
+
 public class Solution {
     public String reverseWords(String s) {
-        String[] words = s.split("\\s+"); 
-        StringBuilder reversed = new StringBuilder();
+        String[] words = s.split(" ");
+        StringBuilder result = new StringBuilder();
+        
         for (String word : words) {
-            StringBuilder reversedWord = new StringBuilder(word);
-            reversedWord.reverse(); 
-            reversed.append(reversedWord).append(" "); 
+            result.append(new StringBuilder(word).reverse()).append(" ");
         }
-        return reversed.toString().trim();
+        
+        return result.toString().trim();
     }
 }
