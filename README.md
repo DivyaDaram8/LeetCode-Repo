@@ -61,6 +61,7 @@
 | [0075-sort-colors](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
@@ -75,6 +76,7 @@
 | [0048-rotate-image](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -86,6 +88,7 @@
 | [0073-set-matrix-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
