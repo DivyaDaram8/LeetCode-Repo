@@ -81,6 +81,7 @@
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
+| [3567-convert-date-to-binary](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -202,6 +203,7 @@
 | [2406-decode-the-message](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2406-decode-the-message) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3379-score-of-a-string) |
+| [3567-convert-date-to-binary](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
