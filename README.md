@@ -107,6 +107,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2406-decode-the-message](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2406-decode-the-message) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3412-permutation-difference-between-two-strings](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -203,6 +204,7 @@
 | [2406-decode-the-message](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2406-decode-the-message) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3412-permutation-difference-between-two-strings) |
 | [3567-convert-date-to-binary](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3636-check-balanced-string) |
 ## Stack
