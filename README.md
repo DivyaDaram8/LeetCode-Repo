@@ -34,6 +34,7 @@
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0940-fruit-into-baskets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -103,6 +104,7 @@
 | [0822-unique-morse-code-words](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0940-fruit-into-baskets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
