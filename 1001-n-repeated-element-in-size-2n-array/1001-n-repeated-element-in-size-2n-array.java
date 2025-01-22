@@ -13,7 +13,7 @@ class Solution {
         HashMap <Integer, Integer> hm = new HashMap<>();
         for(int num : nums){
             hm.put(num, hm.getOrDefault(num,0)+1);
-             if(hm.getOrDefault(num,0) == 2){
+            if(hm.get(num) == 2){
                 return num;
             }
         }
