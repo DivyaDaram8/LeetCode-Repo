@@ -7,16 +7,17 @@ class Solution {
         }
         for(int i = 0; i < min; i++){
             char ch = strs[0].charAt(i);
-            boolean same = true;
+            // boolean same = true;
             for(int j = 1; j < strs.length; j++){
                 if(ch != strs[j].charAt(i)){
-                    same = false;
+                    // same = false;
                     return sb.toString();
                 }
             }
-            if(same){
-                sb.append(ch);
-            }
+            // if(same){
+            //     sb.append(ch);
+            // }
+            sb.append(ch);
         }
         return sb.toString();
     }
