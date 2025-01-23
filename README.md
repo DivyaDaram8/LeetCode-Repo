@@ -98,6 +98,7 @@
 | [0242-valid-anagram](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
@@ -194,6 +195,7 @@
 | [0344-reverse-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
