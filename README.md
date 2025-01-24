@@ -98,6 +98,7 @@
 | [0242-valid-anagram](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
@@ -195,6 +197,7 @@
 | [0242-valid-anagram](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -258,4 +261,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
