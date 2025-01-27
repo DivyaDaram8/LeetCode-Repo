@@ -74,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0066-plus-one) |
