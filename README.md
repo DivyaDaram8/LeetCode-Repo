@@ -178,6 +178,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Union Find
 |  |
 | ------- |
@@ -225,6 +226,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3412-permutation-difference-between-two-strings) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3567-convert-date-to-binary](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3636-check-balanced-string) |
