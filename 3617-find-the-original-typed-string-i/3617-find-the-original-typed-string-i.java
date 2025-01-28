@@ -1,12 +1,12 @@
 class Solution {
     public int possibleStringCount(String word) {
         int count = 0;
-        int prev = '0';
+        int prevChar = '0';
         for(char ch : word.toCharArray()){
-            if(prev == ch){
+            if(prevChar == ch){
                 count++;
             }
-            prev = ch;
+            prevChar = ch;
         }
         return count + 1;
     }
