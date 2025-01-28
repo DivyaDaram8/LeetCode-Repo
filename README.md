@@ -226,6 +226,7 @@
 | [3379-score-of-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3412-permutation-difference-between-two-strings) |
 | [3567-convert-date-to-binary](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3567-convert-date-to-binary) |
+| [3617-find-the-original-typed-string-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
