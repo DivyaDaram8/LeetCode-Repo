@@ -13,7 +13,7 @@ class Solution {
                 }
                 begin++;
             }
-            cnt += end - begin + 1;
+            cnt += end - begin ;
         }
         return cnt;
     }
