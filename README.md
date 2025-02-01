@@ -31,6 +31,7 @@
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0777-toeplitz-matrix) |
+| [0792-binary-search](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -137,6 +138,7 @@
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
