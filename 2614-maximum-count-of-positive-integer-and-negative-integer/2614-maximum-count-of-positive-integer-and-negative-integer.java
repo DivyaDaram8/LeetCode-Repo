@@ -9,7 +9,7 @@ class Solution {
             }
             else end = mid - 1;
         } 
-        int neg = end + 1;
+        int neg = begin;
 
         begin = 0;
         end = nums.length - 1;
