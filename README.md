@@ -61,6 +61,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Two Pointers
@@ -82,6 +83,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,6 +174,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
