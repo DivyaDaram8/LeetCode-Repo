@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0054-spiral-matrix) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
