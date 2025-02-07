@@ -95,6 +95,7 @@
 | [0048-rotate-image](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0189-rotate-array) |
@@ -145,6 +146,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
