@@ -101,6 +101,7 @@
 | [0189-rotate-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1370-count-number-of-nice-subarrays) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -334,4 +336,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
