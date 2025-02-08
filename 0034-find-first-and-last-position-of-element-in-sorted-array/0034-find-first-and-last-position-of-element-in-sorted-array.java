@@ -1,34 +1,50 @@
 class Solution {
-    public int[] searchRange(int[] nums, int target) {
-        int[] ans = {-1 , -1};
-        ans[0] = search(nums,target, true);
-        if(ans[0] != -1){
-             ans[1] = search(nums,target,false);
-        }  
-        return ans;
-    }
-    int search(int[] nums,int target, boolean findStartIndex){
-        int start = 0;
+    public int leftMost(int[] nums, int target){
+        if(nums.length == 0) return -1;
+        int begin = 0;
         int end = nums.length - 1;
-        int ans = -1;
-        while(start <= end){
-            int mid = start +(end-start)/2;
-            if(target > nums[mid]){
-                start = mid + 1;
+        while(begin <= end){
+            int mid = end + (begin - end) / 2;
+            if(nums[mid] < target){
+                begin = mid + 1;
             }
-            else if(target < nums[mid]){
+            else if(nums[mid] >= target){
                 end = mid - 1;
             }
-            else{
-                ans = mid;
-                if(findStartIndex){
-                    end = mid - 1;
-                }
-                else{
-                    start = mid + 1;
-                }
+        }
+        if(begin >= nums.length){
+            return -1;
+        }
+        if(nums[begin] != target){
+            return -1;
+        }
+        return begin;
+    }
+    public int rightMost(int[] nums, int target){
+        if(nums.length == 0) return -1;
+        int begin = 0;
+        int end = nums.length - 1;
+        while(begin <= end){
+            int mid = end + (begin - end) / 2;
+            if(nums[mid] <= target){
+                begin = mid + 1;
+            }
+            else if(nums[mid] > target){
+                end = mid - 1;
             }
         }
+        if(end < 0){
+            return -1;
+        }
+        if(nums[end] != target){
+            return -1;
+        }
+        return end;
+    }
+    public int[] searchRange(int[] nums, int target) {
+        int leftMost = leftMost(nums, target);
+        int rightMost = rightMost(nums, target);
+        int ans[] = {leftMost, rightMost};
         return ans;
     }
 }
