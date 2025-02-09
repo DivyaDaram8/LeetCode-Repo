@@ -105,6 +105,7 @@
 | [0258-add-digits](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
@@ -347,4 +348,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
