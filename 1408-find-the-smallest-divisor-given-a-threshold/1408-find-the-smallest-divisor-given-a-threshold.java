@@ -3,9 +3,10 @@ class Solution {
         int sum = 0;
         for(int i = 0; i < nums.length; i++){
             int val = nums[i];
-            int temp = val / mid;
-            if(val % mid != 0) temp += 1;
-            sum += temp;
+            // int temp = val / mid;
+            val /= mid;
+            if(nums[i] % mid != 0) val += 1;
+            sum += val;
         }
         return sum <= threshold;
     }
