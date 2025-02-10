@@ -9,7 +9,7 @@ class Solution {
                 if(grid[i][mid] >= 0){
                     begin = mid + 1;
                 }
-                else if(grid[i][mid] < 0){
+                else {
                     end = mid - 1;
                 }
             }
