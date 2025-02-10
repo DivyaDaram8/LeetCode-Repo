@@ -155,6 +155,7 @@
 | [0069-sqrtx](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -358,4 +359,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0292-nim-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
