@@ -19,7 +19,7 @@ class Solution {
     public boolean eats(int[] piles, int h, int mid){
         int sum = 0;
          for (int pile : piles) {
-            sum += Math.ceil((double) pile / mid); 
+            sum += Math.ceil((double) pile /(double) mid); 
         }
         return sum <= h;
     }
