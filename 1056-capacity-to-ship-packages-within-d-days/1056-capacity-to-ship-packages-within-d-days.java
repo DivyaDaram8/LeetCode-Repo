@@ -16,8 +16,12 @@ class Solution {
         return true;
     }
     public int shipWithinDays(int[] weights, int days) {
-        int begin = 1;
-        int end = Integer.MAX_VALUE;
+        int begin = 0;
+        int end = 0;
+        for(int weight : weights){
+            begin = Math.max(begin, weight);
+            end += weight;
+        }
         while(begin <= end){
             int mid = begin + (end - begin) / 2;
             if(isPossible(weights, days, mid)){
