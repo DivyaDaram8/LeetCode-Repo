@@ -59,6 +59,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -172,6 +173,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -316,6 +318,7 @@
 | [0455-assign-cookies](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0561-array-partition) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2497-maximum-matching-of-players-with-trainers) |
