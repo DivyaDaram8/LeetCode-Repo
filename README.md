@@ -26,6 +26,7 @@
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0560-subarray-sum-equals-k) |
@@ -165,6 +166,7 @@
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0792-binary-search) |
@@ -235,6 +237,7 @@
 | [0070-climbing-stairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -310,6 +313,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1046-max-consecutive-ones-iii) |
@@ -322,6 +326,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0561-array-partition) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
