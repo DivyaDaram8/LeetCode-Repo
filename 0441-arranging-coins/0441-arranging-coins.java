@@ -5,6 +5,6 @@ class Solution {
             row++;
             n -= row;
        }
-       return row - 1;
+       return row -1;
     }
 }
