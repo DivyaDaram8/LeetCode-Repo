@@ -1,10 +1,14 @@
 class Solution {
     public int arrangeCoins(int n) {
-       int row = 1;
-       while(n > 0){
-            row++;
+        if (n == 1) return 1;  
+
+        int row = 1; 
+        
+        while (n >= row) { 
             n -= row;
-       }
-       return row -1;
+            row++;
+        }
+
+        return row - 1;  
     }
 }
