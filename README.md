@@ -26,6 +26,7 @@
 | [0228-summary-ranges](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0455-assign-cookies) |
@@ -88,6 +89,7 @@
 | [0189-rotate-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
@@ -166,6 +168,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0441-arranging-coins) |
@@ -193,6 +196,7 @@
 | [0136-single-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
