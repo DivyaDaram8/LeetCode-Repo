@@ -164,6 +164,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2406-decode-the-message](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2406-decode-the-message) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
@@ -198,6 +199,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -315,6 +318,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2406-decode-the-message) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3379-score-of-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -368,6 +372,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting Sort
 |  |
 | ------- |
