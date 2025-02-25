@@ -44,6 +44,7 @@
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -155,6 +156,7 @@
 | [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
+| [0924-fair-candy-swap](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -188,6 +190,7 @@
 | [0792-binary-search](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -226,6 +229,7 @@
 | [0455-assign-cookies](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
+| [0924-fair-candy-swap](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0924-fair-candy-swap) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1675-magnetic-force-between-two-balls) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
