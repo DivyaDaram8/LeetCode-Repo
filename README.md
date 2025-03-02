@@ -49,6 +49,7 @@
 | [0940-fruit-into-baskets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -104,6 +105,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1019-squares-of-a-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -234,6 +236,7 @@
 | [0561-array-partition](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0924-fair-candy-swap) |
+| [1019-squares-of-a-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1675-magnetic-force-between-two-balls) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
