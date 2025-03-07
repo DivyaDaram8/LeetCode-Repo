@@ -137,6 +137,7 @@
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0441-arranging-coins) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1370-count-number-of-nice-subarrays) |
@@ -229,6 +230,7 @@
 | [0231-power-of-two](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -425,6 +427,7 @@
 | [0002-add-two-numbers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
