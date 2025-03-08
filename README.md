@@ -140,6 +140,7 @@
 | [0342-power-of-four](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0441-arranging-coins) |
+| [1013-fibonacci-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
 | [3567-convert-date-to-binary](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3567-convert-date-to-binary) |
@@ -285,6 +286,7 @@
 | [0118-pascals-triangle](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -428,6 +430,7 @@
 | [0231-power-of-two](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -436,6 +439,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
