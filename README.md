@@ -48,6 +48,7 @@
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0907-koko-eating-bananas) |
+| [0919-projection-area-of-3d-shapes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0919-projection-area-of-3d-shapes) |
 | [0924-fair-candy-swap](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0966-binary-subarrays-with-sum) |
@@ -141,6 +142,7 @@
 | [0367-valid-perfect-square](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0441-arranging-coins) |
+| [0919-projection-area-of-3d-shapes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
@@ -313,6 +315,7 @@
 | [0059-spiral-matrix-ii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0777-toeplitz-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0777-toeplitz-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0919-projection-area-of-3d-shapes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1677-matrix-diagonal-sum) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -458,4 +461,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0002-add-two-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0919-projection-area-of-3d-shapes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0919-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
