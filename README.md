@@ -149,6 +149,7 @@
 | [1013-fibonacci-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3567-convert-date-to-binary](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -358,6 +359,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1205-defanging-an-ip-address) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
