@@ -153,6 +153,7 @@
 | [1920-determine-color-of-a-chessboard-square](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3567-convert-date-to-binary](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,6 +246,7 @@
 | [0371-sum-of-two-integers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -311,6 +313,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
 | ------- |
@@ -447,6 +450,7 @@
 | [0326-power-of-three](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
