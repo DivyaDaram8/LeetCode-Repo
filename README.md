@@ -67,6 +67,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1675-magnetic-force-between-two-balls) |
@@ -116,6 +117,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1019-squares-of-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -225,6 +227,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1675-magnetic-force-between-two-balls) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -265,6 +268,7 @@
 | [0924-fair-candy-swap](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1675-magnetic-force-between-two-balls) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
