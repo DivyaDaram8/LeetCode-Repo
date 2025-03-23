@@ -1,35 +1,36 @@
 class Solution {
     public String shortestCompletingWord(String licensePlate, String[] words) {
-        Map<Character,Integer> licenseMap = new HashMap<>();
-        licensePlate = licensePlate.toLowerCase();
-        for(char ch : licensePlate.toCharArray()){
-            if(Character.isLetter(ch)){
-                licenseMap.put(ch, licenseMap.getOrDefault(ch,0) + 1);
+        int[] licenseMap = new int[26];
+
+        for (char ch : licensePlate.toCharArray()) {
+            if (Character.isLetter(ch)) {
+                licenseMap[Character.toLowerCase(ch) - 'a']++;
             }
         }
+
         String res = "";
-        for(String word : words){
-            Map<Character, Integer> wordMap = new HashMap<>();
-            
-            for(char ch : word.toCharArray()){
-                wordMap.put(ch, wordMap.getOrDefault(ch,0) + 1);
+        int minLen = Integer.MAX_VALUE;
+
+        for (String word : words) {
+            int[] wordMap = new int[26];
+            for (char ch : word.toCharArray()) {
+                wordMap[ch - 'a']++;
             }
 
-            boolean isValid = true;
-            for(char ch : licenseMap.keySet()){
-                if((wordMap.getOrDefault(ch, 0) < licenseMap.get(ch))){
-                    isValid = false;
-                    break;
-                }
+            if (isValid(wordMap, licenseMap) && word.length() < minLen) {
+                res = word;
+                minLen = word.length();
             }
-
-
-            if(isValid){
-                if (res.equals("") || word.length() < res.length()) {
-                    res = word;
-                }
-            } 
         }
         return res;
+    }
+
+    private boolean isValid(int[] wordMap, int[] licenseMap) {
+        for (int i = 0; i < 26; i++) {
+            if (wordMap[i] < licenseMap[i]) {
+                return false;
+            }
+        }
+        return true;
     }
 }
