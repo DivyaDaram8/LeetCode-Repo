@@ -44,6 +44,7 @@
 | [0561-array-partition](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0749-shortest-completing-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0822-unique-morse-code-words) |
@@ -183,6 +184,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
+| [0749-shortest-completing-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
@@ -367,6 +369,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0742-to-lower-case) |
+| [0749-shortest-completing-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
