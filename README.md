@@ -91,6 +91,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3194-find-words-containing-character](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3723-sum-of-good-numbers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3723-sum-of-good-numbers) |
@@ -384,6 +385,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2406-decode-the-message) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3194-find-words-containing-character](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3194-find-words-containing-character) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3379-score-of-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3412-permutation-difference-between-two-strings) |
