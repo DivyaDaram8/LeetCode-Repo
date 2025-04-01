@@ -19,8 +19,8 @@ class Solution {
             }
         }
         int ans = 0;
-        for(int i : st){
-            ans+= i;
+        while(!st.isEmpty()){
+            ans += st.pop();
         }
         return ans;
     }
