@@ -4,22 +4,28 @@ class Solution {
         for(char ch : s.toCharArray()){
             if(ch == '(' || ch == '{' || ch == '['){
                 st.push(ch);
-            }else if(ch == ')' && !(st.isEmpty())){
-                if(st.pop() != '('){
-                    return false;
-                }
-            }else if(ch == ']' && !(st.isEmpty())){
-                if(st.pop() != '['){
-                    return false;
-                }
-            }else if (ch == '}' && !(st.isEmpty())){
-                if(st.pop() != '{'){
-                    return false;
-                }
             }else{
-                return false;
+                if(!isTrue(st,ch)){
+                    return false;
+                }
             }
         }
         return st.isEmpty();
+    }
+    public boolean isTrue(Stack<Character> st, char ch){
+        if(st.isEmpty()){
+            return false;
+        }
+        char top = st.pop();
+        if(ch == ')' && top != '('){
+            return false;
+        }
+        else if(ch == ']' && top != '['){
+            return false;
+        }
+        else if(ch == '}' && top != '{'){
+            return false;
+        }
+        else return true;
     }
 }
