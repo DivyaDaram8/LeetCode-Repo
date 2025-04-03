@@ -402,6 +402,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -462,6 +463,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 ## Recursion
 |  |
@@ -501,4 +503,8 @@
 |  |
 | ------- |
 | [0919-projection-area-of-3d-shapes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0919-projection-area-of-3d-shapes) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
