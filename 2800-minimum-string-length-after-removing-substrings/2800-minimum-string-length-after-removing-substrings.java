@@ -13,10 +13,11 @@ class Solution {
                 }
             }
         }
-        StringBuilder sb = new StringBuilder();
-        while(!st.isEmpty()){
-            sb.insert(0,st.pop());
-        }
-        return sb.toString().length();
+        // StringBuilder sb = new StringBuilder();
+        // while(!st.isEmpty()){
+        //     sb.insert(0,st.pop());
+        // }
+        // return sb.toString().length();
+        return st.size();
     }
 }
