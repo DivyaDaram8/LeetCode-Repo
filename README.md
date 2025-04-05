@@ -38,6 +38,7 @@
 | [0410-split-array-largest-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0560-subarray-sum-equals-k) |
@@ -182,6 +183,7 @@
 | [0389-find-the-difference](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0567-permutation-in-string) |
@@ -405,6 +407,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -510,4 +513,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
