@@ -74,6 +74,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1675-magnetic-force-between-two-balls) |
@@ -416,6 +417,7 @@
 | [0682-baseball-game](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1078-remove-outermost-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -525,4 +527,5 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
