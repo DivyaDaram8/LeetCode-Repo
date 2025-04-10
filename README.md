@@ -100,6 +100,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3723-sum-of-good-numbers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3723-sum-of-good-numbers) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Two Pointers
 |  |
 | ------- |
