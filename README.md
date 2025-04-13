@@ -419,6 +419,7 @@
 | [0496-next-greater-element-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -525,11 +526,17 @@
 | ------- |
 | [0155-min-stack](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0225-implement-stack-using-queues) |
+| [0937-online-stock-span](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
