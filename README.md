@@ -80,6 +80,7 @@
 | [1635-number-of-good-pairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1677-matrix-diagonal-sum) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -329,6 +330,7 @@
 | [0258-add-digits](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0682-baseball-game) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -423,6 +425,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3447-clear-digits) |
@@ -483,6 +486,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
 | ------- |
