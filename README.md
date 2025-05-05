@@ -588,15 +588,22 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
