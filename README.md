@@ -465,6 +465,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -593,6 +594,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
@@ -602,6 +604,7 @@
 | [0101-symmetric-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -612,6 +615,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
@@ -624,4 +628,8 @@
 |  |
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
