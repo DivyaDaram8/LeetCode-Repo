@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public void inOrder(TreeNode root, ArrayList<Integer> res){
+    public void inOrder(TreeNode root, List<Integer> res){
         if(root == null) return;
 
         inOrder(root.left, res);
@@ -22,7 +22,7 @@ class Solution {
         inOrder(root.right, res);
     }
     public int kthSmallest(TreeNode root, int k) {
-        ArrayList<Integer> res = new ArrayList<>();
+        List<Integer> res = new ArrayList<>();
         inOrder(root, res);
         return res.get(k - 1);
     }
