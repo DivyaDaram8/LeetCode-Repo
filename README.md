@@ -596,6 +596,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -610,6 +611,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -625,6 +627,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
