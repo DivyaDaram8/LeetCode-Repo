@@ -69,6 +69,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -446,6 +447,7 @@
 | [0682-baseball-game](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -582,6 +584,7 @@
 | [0496-next-greater-element-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
@@ -605,6 +608,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -641,6 +645,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -660,6 +665,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Function
 |  |
 | ------- |
