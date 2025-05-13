@@ -610,6 +610,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -629,6 +630,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -650,6 +652,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -663,6 +666,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
