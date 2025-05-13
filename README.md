@@ -315,6 +315,7 @@
 | [0053-maximum-subarray](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0169-majority-element) |
+| [1285-balance-a-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1285-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -479,6 +480,7 @@
 | [0455-assign-cookies](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0646-maximum-length-of-pair-chain) |
+| [1285-balance-a-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1285-balance-a-binary-search-tree) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -616,6 +618,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -636,6 +639,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -660,6 +664,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -682,6 +687,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1285-balance-a-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
