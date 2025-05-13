@@ -560,6 +560,7 @@
 | [0061-rotate-list](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0206-reverse-linked-list) |
@@ -601,6 +602,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0226-invert-binary-tree) |
@@ -621,6 +623,7 @@
 | [0098-validate-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0226-invert-binary-tree) |
@@ -643,6 +646,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0226-invert-binary-tree) |
@@ -663,6 +667,7 @@
 | [0101-symmetric-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0513-find-bottom-left-tree-value) |
