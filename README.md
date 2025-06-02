@@ -744,4 +744,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0948-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
