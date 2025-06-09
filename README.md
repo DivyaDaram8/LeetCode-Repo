@@ -381,6 +381,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -662,6 +663,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0684-redundant-connection) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1285-balance-a-binary-search-tree) |
@@ -704,6 +706,7 @@
 | [0226-invert-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0684-redundant-connection) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2121-find-if-path-exists-in-graph) |
@@ -766,6 +769,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
