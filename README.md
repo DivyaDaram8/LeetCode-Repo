@@ -770,6 +770,7 @@
 | [0610-triangle-judgement](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0610-triangle-judgement) |
 | [1153-product-sales-analysis-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1179-game-play-analysis-i) |
+| [1827-invalid-tweets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1908-recyclable-and-low-fat-products) |
 ## Graph
 |  |
