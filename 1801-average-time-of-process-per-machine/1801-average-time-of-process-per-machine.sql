@@ -5,5 +5,5 @@ SELECT machine_id, ROUND(
             WHEN activity_type = "start" THEN timestamp*-1
             ELSE timestamp
         END
-    ) / (SELECT count(DISTINCT process_id)), 3
+    ) * 1.0 / (SELECT count(DISTINCT process_id)), 3
 ) AS processing_time FROM activity GROUP BY machine_id;
