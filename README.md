@@ -360,6 +360,7 @@
 | [0435-non-overlapping-intervals](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1250-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -435,6 +436,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1205-defanging-an-ip-address) |
+| [1250-longest-common-subsequence](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1297-maximum-number-of-balloons) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1920-determine-color-of-a-chessboard-square) |
