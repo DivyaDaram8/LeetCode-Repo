@@ -147,6 +147,7 @@
 | [0567-permutation-in-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1894-merge-strings-alternately](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -448,6 +449,7 @@
 | [1250-longest-common-subsequence](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1297-maximum-number-of-balloons) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
