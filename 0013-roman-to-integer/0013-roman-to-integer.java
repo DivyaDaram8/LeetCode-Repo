@@ -9,7 +9,7 @@ class Solution {
         romans.put('D', 500);
         romans.put('M', 1000);
         
-        int idx = s.length() - 1;  // fix: start from last valid index
+        int idx = s.length() - 1;
         int ans = 0;
         
         while (idx >= 0) {
@@ -19,33 +19,30 @@ class Solution {
                 if (ch == 'V' && ch1 == 'I') {
                     ans += 4;
                     idx -= 2;
-                    continue;
                 } else if (ch == 'X' && ch1 == 'I') {
                     ans += 9;
                     idx -= 2;
-                    continue;
                 } else if (ch == 'L' && ch1 == 'X') {
                     ans += 40;
                     idx -= 2;
-                    continue;
                 } else if (ch == 'C' && ch1 == 'X') {
                     ans += 90;
                     idx -= 2;
-                    continue;
                 } else if (ch == 'D' && ch1 == 'C') {
                     ans += 400;
                     idx -= 2;
-                    continue;
                 } else if (ch == 'M' && ch1 == 'C') {
                     ans += 900;
                     idx -= 2;
-                    continue;
+                } else {
+                    ans += romans.get(ch);
+                    idx--;
                 }
+            } else {
+                ans += romans.get(ch);
+                idx--;
             }
-            ans += romans.get(ch); 
-            idx--;
         }
-        
         return ans;
     }
 }
