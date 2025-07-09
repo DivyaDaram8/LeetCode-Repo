@@ -13,4 +13,4 @@ SELECT
         10
     )AS price
 FROM 
-    (SELECT DISTINCT product_id FROM Products) p;
+    (SELECT DISTINCT product_id FROM Products) AS p;
