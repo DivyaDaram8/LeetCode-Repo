@@ -1,31 +1,54 @@
+// class Solution {
+//     public boolean isValid(String s) {
+//         Stack<Character> st = new Stack<>();
+//         for(char ch : s.toCharArray()){
+//             if(ch == '(' || ch == '{' || ch == '['){
+//                 st.push(ch);
+//             }else if(ch == ')' && !(st.isEmpty())){
+//                 if(st.pop() != '('){
+//                     return false;
+//                 }
+//             }else if(ch == ']' && !(st.isEmpty())){
+//                 if(st.pop() != '['){
+//                     return false;
+//                 }
+//             }else if (ch == '}' && !(st.isEmpty())){
+//                 if(st.pop() != '{'){
+//                     return false;
+//                 }
+//             }else{
+//                 return false;
+//             }
+//         }
+//         return st.isEmpty();
+//     }
+// }
+
 class Solution {
-    public boolean isValid(String s) {
+    public boolean isValid(String s){
         Stack<Character> st = new Stack<>();
         for(char ch : s.toCharArray()){
-            if(ch == '(' || ch == '{' || ch == '['){
+            if(ch == '(' || ch == '[' || ch == '{'){
                 st.push(ch);
-            }else{
-                if(!isTrue(st,ch)){
+            }
+            else if(ch == ')' && !(st.isEmpty())){
+                if(st.pop() != '('){
                     return false;
                 }
+            }
+             else if(ch == ']' && !(st.isEmpty())){
+                if(st.pop() != '['){
+                    return false;
+                }
+            } else if(ch == '}' && !(st.isEmpty())){
+                if(st.pop() != '{'){
+                    return false;
+                }
+            }
+            else{
+                return false;
             }
         }
         return st.isEmpty();
     }
-    public boolean isTrue(Stack<Character> st, char ch){
-        if(st.isEmpty()){
-            return false;
-        }
-        char top = st.pop();
-        if(ch == ')' && top != '('){
-            return false;
-        }
-        else if(ch == ']' && top != '['){
-            return false;
-        }
-        else if(ch == '}' && top != '{'){
-            return false;
-        }
-        else return true;
-    }
-}
+} 
