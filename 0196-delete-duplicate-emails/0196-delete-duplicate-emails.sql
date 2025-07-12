@@ -10,6 +10,6 @@ join (
     select min(id) as low_id, email 
     from person 
     group by email
-) as fd
-on p.email = fd.email
-where p.id != fd.low_id;
+) as p1
+on p.email = p1.email
+where p.id != p1.low_id;
