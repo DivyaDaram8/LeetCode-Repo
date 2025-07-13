@@ -30,6 +30,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -205,6 +206,7 @@
 | [0073-set-matrix-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0169-majority-element) |
@@ -372,6 +374,7 @@
 | [0096-unique-binary-search-trees](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0410-split-array-largest-sum) |
@@ -432,6 +435,7 @@
 | [0072-edit-distance](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0171-excel-sheet-column-number) |
@@ -566,6 +570,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0208-implement-trie-prefix-tree) |
 ## Queue
 |  |
@@ -595,6 +600,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
