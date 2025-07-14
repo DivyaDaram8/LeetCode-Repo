@@ -461,6 +461,7 @@
 | [0742-to-lower-case](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0837-most-common-word) |
 | [1078-remove-outermost-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1078-remove-outermost-parentheses) |
@@ -528,6 +529,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0812-rotate-string) |
 ## Greedy
 |  |
 | ------- |
