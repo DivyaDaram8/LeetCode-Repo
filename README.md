@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0049-group-anagrams) |
@@ -131,6 +132,7 @@
 | [0027-remove-element](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0088-merge-sorted-array) |
@@ -373,6 +375,7 @@
 | [0005-longest-palindromic-substring](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0070-climbing-stairs) |
@@ -505,6 +508,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
@@ -664,6 +668,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0739-daily-temperatures) |
