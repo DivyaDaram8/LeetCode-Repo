@@ -25,6 +25,7 @@
 | [0059-spiral-matrix-ii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0088-merge-sorted-array) |
@@ -268,6 +269,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
@@ -428,6 +430,7 @@
 | [0054-spiral-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0074-search-a-2d-matrix) |
 | [0777-toeplitz-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0777-toeplitz-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0919-projection-area-of-3d-shapes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
