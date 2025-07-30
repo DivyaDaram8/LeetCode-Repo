@@ -176,6 +176,7 @@
 | [0009-palindrome-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0067-add-binary) |
@@ -308,6 +309,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0190-reverse-bits) |
