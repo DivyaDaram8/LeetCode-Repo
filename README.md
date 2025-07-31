@@ -81,6 +81,7 @@
 | [0907-koko-eating-bananas](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0907-koko-eating-bananas) |
 | [0919-projection-area-of-3d-shapes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0919-projection-area-of-3d-shapes) |
 | [0924-fair-candy-swap](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0924-fair-candy-swap) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0966-binary-subarrays-with-sum) |
@@ -326,6 +327,7 @@
 | [0389-find-the-difference](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0389-find-the-difference) |
 | [0477-total-hamming-distance](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0645-set-mismatch) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
@@ -410,6 +412,7 @@
 | [0410-split-array-largest-sum](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0646-maximum-length-of-pair-chain) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
