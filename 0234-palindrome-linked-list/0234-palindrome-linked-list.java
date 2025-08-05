@@ -17,12 +17,12 @@ class Solution {
             fast = fast.next.next;
         }
         return slow;
-    } 
+    }
     public boolean isPalindrome(ListNode head) {
         if(head.next == null) return true;
-
         ListNode mid = getMid(head);
 
+        //To reverse
         ListNode curr = mid;
         ListNode prev = null;
         ListNode next;
@@ -35,7 +35,6 @@ class Solution {
 
         ListNode right = prev;
         ListNode left = head;
-
 
         while(right != null){
             if(left.val != right.val){
