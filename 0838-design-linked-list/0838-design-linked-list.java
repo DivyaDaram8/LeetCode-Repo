@@ -7,9 +7,10 @@ class MyLinkedList {
             this.next = null;
         }
     }
+
     private Node head, tail;
     private int size;
-    
+
     public MyLinkedList() {
         head = null;
         tail = null;
@@ -42,13 +43,15 @@ class MyLinkedList {
             head = tail = newNode;
         }else{
             tail.next = newNode;
-            tail = newNode;
+            tail =  newNode;
         }
         size++;
     }
     
     public void addAtIndex(int index, int val) {
-        if(index > size) return;
+        if(index > size){
+            return;
+        }
         if(index == 0){
             addAtHead(val);
             return;
@@ -66,23 +69,23 @@ class MyLinkedList {
         temp.next = newNode;
         size++;
     }
-
+    
     public void deleteAtIndex(int index) {
-        if (index < 0 || index >= size) return;
-        if (index == 0) {
+        if(index < 0 || index >= size){
+            return;
+        }
+        if(index == 0){
             head = head.next;
-            if (size == 1) tail = null;
+            if(size == 1) tail = null;
             size--;
             return;
         }
-
         Node temp = head;
-        for (int i = 0; i < index - 1; i++) {
+        for(int i = 0; i < index - 1; i++){
             temp = temp.next;
         }
-
         temp.next = temp.next.next;
-        if (index == size - 1) tail = temp;
+        if(index == size - 1) tail = temp;
         size--;
     }
 }
