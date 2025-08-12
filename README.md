@@ -543,6 +543,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0225-implement-stack-using-queues) |
@@ -728,6 +729,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -750,6 +752,7 @@
 | [0101-symmetric-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0226-invert-binary-tree) |
@@ -778,6 +781,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0230-kth-smallest-element-in-a-bst) |
