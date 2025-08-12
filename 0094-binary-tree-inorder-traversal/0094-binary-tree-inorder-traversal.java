@@ -21,10 +21,10 @@ class Solution {
         inOrder(root.left, res);
         res.add(root.val);
         inOrder(root.right, res);
-    } 
+    }
     public List<Integer> inorderTraversal(TreeNode root) {
         ArrayList<Integer> res = new ArrayList<>();
-        inOrder(root,res);
+        inOrder(root, res);
         return res;
     }
 }
