@@ -744,6 +744,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -771,6 +772,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0684-redundant-connection) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1285-balance-a-binary-search-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/2121-find-if-path-exists-in-graph) |
@@ -802,6 +804,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -833,6 +836,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/DivyaDaram8/LeetCode-Repo/tree/master/1285-balance-a-binary-search-tree) |
 ## Hash Function
 |  |
