@@ -18,17 +18,20 @@ class Solution {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
         int k = 0;
+        int level = Integer.MIN_VALUE;
         int maxSum = Integer.MIN_VALUE;
-        int level = -1;
-
-        while(!queue.isEmpty()){     
-            int sum = 0;      
+        while(!queue.isEmpty()){
+            int sum = 0;
             int levelSize = queue.size();
-            for(int i = 0; i <levelSize; i++){
-                TreeNode curr =  queue.poll();
+            for(int i = 0; i < levelSize; i++){
+                TreeNode curr = queue.poll();
                 sum += curr.val;
-                if(curr.left != null) queue.add(curr.left);
-                if(curr.right != null) queue.add(curr.right);
+                if(curr.left != null){
+                    queue.add(curr.left);
+                }
+                if(curr.right != null){
+                    queue.add(curr.right);
+                }
             }
             if(sum > maxSum){
                 maxSum = sum;
