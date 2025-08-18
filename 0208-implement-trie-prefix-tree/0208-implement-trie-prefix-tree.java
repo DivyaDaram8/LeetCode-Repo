@@ -1,7 +1,18 @@
-class TrieNode {
+
+/**
+ * Your Trie object will be instantiated and called as such:
+ * Trie obj = new Trie();
+ * obj.insert(word);
+ * boolean param_2 = obj.search(word);
+ * boolean param_3 = obj.startsWith(prefix);
+ */
+
+
+ class TrieNode{
     TrieNode[] children = new TrieNode[26];
-    boolean eow = false; // end of word
+    boolean eow = false;
 }
+
 class Trie {
     private TrieNode root;
     public Trie() {
@@ -33,21 +44,13 @@ class Trie {
     
     public boolean startsWith(String prefix) {
         TrieNode curr = root;
-        for(char ch: prefix.toCharArray()){
+        for(char ch : prefix.toCharArray()){
             int idx = ch - 'a';
             if(curr.children[idx] == null){
                 return false;
             }
             curr = curr.children[idx];
-        }   
+        }
         return true;
     }
 }
-
-/**
- * Your Trie object will be instantiated and called as such:
- * Trie obj = new Trie();
- * obj.insert(word);
- * boolean param_2 = obj.search(word);
- * boolean param_3 = obj.startsWith(prefix);
- */
