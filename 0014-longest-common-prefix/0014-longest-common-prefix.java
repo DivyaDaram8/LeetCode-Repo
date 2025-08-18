@@ -1,44 +1,52 @@
-// class Solution {
-//     public String longestCommonPrefix(String[] strs) {
-//         StringBuilder sb = new StringBuilder();
-//         int min = Integer.MAX_VALUE;
-//         for(String str : strs){
-//             min = Math.min(min, str.length());
-//         }
-//         for(int i = 0; i < min; i++){
-//             char ch = strs[0].charAt(i);
-//             // boolean same = true;
-//             for(int j = 1; j < strs.length; j++){
-//                 if(ch != strs[j].charAt(i)){
-//                     // same = false;
-//                     return sb.toString();
-//                 }
-//             }
-//             // if(same){
-//             //     sb.append(ch);
-//             // }
-//             sb.append(ch);
-//         }
-//         return sb.toString();
-//     }
-// }
+class Solution {
+    private class TrieNode{
+        TrieNode[] children = new TrieNode[26];
+        boolean isEoW = false;
+    }
+    private TrieNode root = new TrieNode();
 
-class Solution{
-    public String longestCommonPrefix(String[] strs){
-        StringBuilder sb = new StringBuilder();
-        int min = Integer.MAX_VALUE;
-        for(String str : strs){
-            min = Math.min(min, str.length());
+    private void insert(String word){
+        TrieNode curr = root;
+        for(char ch : word.toCharArray()){
+            int idx = ch - 'a';
+            if(curr.children[idx] == null){
+                curr.children[idx] = new TrieNode();
+            }
+            curr = curr.children[idx];
         }
-        for(int i = 0; i < min; i++){
-            char ch = strs[0].charAt(i);
-            for(int j = 0; j < strs.length; j++){
-                if(ch != strs[j].charAt(i)){
-                    return sb.toString();
+        curr.isEoW = true;
+    }
+    public String longestCommonPrefix(String[] strs) {
+        if(strs == null || strs.length == 0){
+            return "";
+        }
+        for(String str : strs){
+            if(str.isEmpty()){
+                return "";
+            }
+            insert(str);
+        }
+
+        StringBuilder lcp = new StringBuilder();
+        TrieNode curr = root;
+
+        while(1 == 1){
+            int count = 0;
+            int index = -1;
+
+            for(int i = 0; i < 26; i++){
+                if(curr.children[i] != null){
+                    count++;
+                    index = i;
                 }
             }
-            sb.append(ch);
+            if(count != 1 || curr.isEoW){
+                break;
+            }
+            curr = curr.children[index];
+            lcp.append((char) (index + 'a'));
+
         }
-        return sb.toString();
+        return lcp.toString();
     }
 }
