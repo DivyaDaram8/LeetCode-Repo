@@ -1,24 +1,15 @@
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
-        int count = 0;
-        int[] arr = new int[58];
-        char[] jewelsArr = jewels.toCharArray();
-        for(char ch: jewelsArr){
-            arr[ch - 'A'] = 1;
+        HashMap<Character, Integer> hmStones = new HashMap<>();
+        for(char ch : stones.toCharArray()){
+            hmStones.put(ch, hmStones.getOrDefault(ch, 0) + 1);
         }
-        for(char ch: stones.toCharArray()){
-            count+=arr[ch - 'A'];
+        int cnt = 0;
+        for(char ch : jewels.toCharArray()){
+            if(hmStones.containsKey(ch)){
+                cnt += hmStones.get(ch);
+            }
         }
-        return count;
-        // HashSet<Character> jewelSet = new HashSet<>();
-        // int count = 0;
-        // for(char ch: jewels.toCharArray()){
-        //     jewelSet.add(ch);
-        // }
-        // for(char ch: stones.toCharArray()){
-        //     if(jewelSet.contains(ch))
-        //         count++;
-        // }
-        // return count;
+        return cnt;
     }
 }
