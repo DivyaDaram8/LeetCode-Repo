@@ -8,10 +8,7 @@ class Solution {
         HashMap<Character, Integer> rn = new HashMap<>();
         for(char ch : ransomNote.toCharArray()){
             rn.put(ch, rn.getOrDefault(ch, 0) + 1);
-            if(!mag.containsKey(ch)){
-                return false;
-            }
-            if(rn.get(ch) > mag.get(ch)){
+            if(!mag.containsKey(ch) || rn.get(ch) > mag.get(ch)){
                 return false;
             }
         }
