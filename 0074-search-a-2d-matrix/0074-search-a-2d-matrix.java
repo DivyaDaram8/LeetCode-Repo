@@ -1,10 +1,11 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        int m = matrix.length - 1;
-        int n = matrix[0].length - 1;
-        for(int i = 0; i <= m; i++){
-            if(matrix[i][0] <= target && matrix[i][n] >= target){
-                for(int j = 0; j <= n; j++){
+        int rows = matrix.length;
+        int cols = matrix[0].length;
+
+        for(int i = 0; i < rows; i++){
+            if(target >= matrix[i][0] && target <= matrix[i][cols - 1]){
+                for(int j = 0; j < cols; j++){
                     if(matrix[i][j] == target){
                         return true;
                     }
