@@ -9,8 +9,7 @@ class Solution {
             int mid = begin + (end - begin) /2;
             if(eats(piles, h, mid)){
                 end = mid - 1;
-            }
-            else{
+            }else{
                 begin = mid + 1;
             }
         }
@@ -18,8 +17,8 @@ class Solution {
     }
     public boolean eats(int[] piles, int h, int mid){
         int sum = 0;
-         for (int pile : piles) {
-            sum += Math.ceil((double) pile /(double) mid); 
+        for(int pile : piles){
+            sum += Math.ceil((double) pile / (double) mid);
         }
         return sum <= h;
     }
