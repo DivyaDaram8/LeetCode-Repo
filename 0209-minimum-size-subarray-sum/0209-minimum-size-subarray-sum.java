@@ -8,12 +8,9 @@ class Solution {
             while(sum >= target){
                 cnt = Math.min(cnt, end - begin + 1);
                 sum -= nums[begin];
-                begin++; 
+                begin++;
             }
         }
-        if(cnt == Integer.MAX_VALUE){
-            return 0;
-        }
-        return (cnt == Integer.MAX_VALUE) ? 0: cnt;
+        return (cnt == Integer.MAX_VALUE) ? 0 : cnt;
     }
 }
