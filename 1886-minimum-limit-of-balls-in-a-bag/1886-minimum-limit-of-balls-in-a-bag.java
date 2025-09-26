@@ -15,7 +15,11 @@ class Solution {
     }
     public int minimumSize(int[] nums, int maxOperations) {
         int begin = 1;
-        int end = (int) Math.pow(10,9);
+        int max = Integer.MIN_VALUE;
+        for(int num : nums){
+            max = Math.max(max, num);
+        }
+        int end = max;
         while(begin <= end){
             int mid = begin + (end - begin) / 2;
             if(isPossible(nums, maxOperations, mid)){
