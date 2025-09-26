@@ -1,19 +1,18 @@
 class Solution {
     public boolean isPossible(int[] nums, int maxOperations,int mid){
         for(int i = 0; i < nums.length; i++){
-            if(nums[i] < mid){
-                continue;
-            }
-            int parts = nums[i] / mid;
-            int ops = 0;
-            if(nums[i] % mid != 0){
-                parts ++;
-            }
-            ops = parts;
-            ops = parts - 1;
-            maxOperations -= ops;
-            if(maxOperations < 0){
-                return false;
+            if(nums[i] > mid){
+                int parts = nums[i] / mid;
+                int ops = 0;
+                if(nums[i] % mid != 0){
+                    parts ++;
+                }
+                ops = parts;
+                ops = parts - 1;
+                maxOperations -= ops;
+                if(maxOperations < 0){
+                    return false;
+                }
             }
         }
         return true;
