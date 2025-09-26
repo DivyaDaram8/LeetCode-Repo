@@ -1,12 +1,14 @@
 class Solution {
     public boolean isPossible(int[] nums, int maxOperations,int mid){
         for(int i = 0; i < nums.length; i++){
-            int  temp = nums[i] / mid;
+            int parts = nums[i] / mid;
+            int ops = 0;
             if(nums[i] % mid != 0){
-                temp ++;
+                parts ++;
             }
-            temp--;
-            maxOperations -= temp;
+            ops = parts;
+            ops = parts - 1;
+            maxOperations -= ops;
             if(maxOperations < 0){
                 return false;
             }
